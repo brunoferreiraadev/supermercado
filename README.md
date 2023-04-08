@@ -1,1 +1,6 @@
 # supermercado
+
+- Cadastro
+- Login
+- Seções
+- Cadastro de produtos
