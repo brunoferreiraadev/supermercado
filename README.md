@@ -1,6 +1,6 @@
-# Sistema de Supermercado para usuário
+# Sistema de Supermercado
 
-- Não é um sistema para o cliente final acessar, e sim para os usuários do supermercado adicionarem os produtos, editarem e deletarem.
+- Finalidade: é um sistema para o suário do supermercado adicionar os produtos, editar e deletar.
 
 - Cadastro.
 - Login.
