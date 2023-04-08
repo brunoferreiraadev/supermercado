@@ -1,4 +1,4 @@
-# supermercado
+# Supermercado
 
 - Cadastro
 - Login
