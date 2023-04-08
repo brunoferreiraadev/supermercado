@@ -1,4 +1,6 @@
-# Sistema de Supermercado para usuário (não é um sistema para o cliente final acessar e sim para os usuários do supermercado adicionarem os produtos, editarem e deletarem):
+# Sistema de Supermercado para usuário
+
+- Não é um sistema para o cliente final acessar e sim para os usuários do supermercado adicionarem os produtos, editarem e deletarem.
 
 - Cadastro.
 - Login.
