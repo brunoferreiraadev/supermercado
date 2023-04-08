@@ -2,7 +2,7 @@
 
 $dbHost = 'Localhost';
 $dbUsername = 'root';
-$dbPassword = '79917991';
+$dbPassword = '';
 $dbName = 'supermercado';
 
 $conexao = new mysqli($dbHost, $dbUsername, $dbPassword, $dbName);
