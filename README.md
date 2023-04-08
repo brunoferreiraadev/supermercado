@@ -1,4 +1,4 @@
-# Sistema de Supermercado
+# Sistema para supermercados
 
 - Finalidade: é um sistema para o suário do supermercado adicionar os produtos, editar e deletar.
 
